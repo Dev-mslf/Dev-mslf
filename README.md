@@ -3,7 +3,7 @@
 </div>
 
 ### 🙋‍♀️ Oie, que bom que estás aqui! 
-- Eu sou a gabrielle, intusiasta do mundo tech e, recentemente, comecei a estudar programação. Estou aprendendo através de plataformas e de conteúdo na net, enquanto o ano letivo não começa.
+- Eu sou a gabrielle, entusiasta do mundo tech e, recentemente, comecei a estudar programação. Estou aprendendo através de plataformas e de conteúdo na net, enquanto o ano letivo não começa.
 - Vou compartilhando com vocês os meus aprendizados/projetos, conforme eu vou aprendendo a mexer direitinho aqui 💁‍♀️
  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">       
 
