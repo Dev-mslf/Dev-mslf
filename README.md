@@ -12,7 +12,7 @@
 <br>
 💙 Faço parte da Empresa Júnior Seed a Bit Tecnologia
 <br>
-💻 Estagiária de suporte na Active Fitness Academia
+💻 Estagiária de análise de dados na Active Fitness Academia
 <br>
 🗣️ Possuo inglês intermediário
 <br>
