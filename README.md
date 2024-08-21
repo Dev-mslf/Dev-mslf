@@ -1,18 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=45&duration=4000&pause=1000&color=312934&center=true&vCenter=true&random=false&width=1000&lines=Oie!+Que+bom+te+ter+por+aqui!)](https://git.io/typing-svg)
-
-
 <div align="center">
-<img src="https://github.com/Dev-mslf/Dev-mslf/assets/151794681/3530ff44-2af1-4ce4-973b-6b38bd63566d" width="1200px" />
+<img src="https://github.com/user-attachments/assets/ad12ba88-8156-43e5-9aca-61737122897f" width="1000px" />
 </div>
 
-### 🙋‍♀️ Sobre mim 
-👋 Meu nome é Gabrielle, tenho 20 anos e moro em Recife - PE
 <br>
-👩‍💻 Atualmente estou no 1º período, cursando Sistemas de Informação na UFRPE
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&duration=4000&pause=1000&color=1700d1&center=true&vCenter=true&random=false&width=1000&lines=Estudante+de+Sistemas+de+Informação+em+desenvolvimento)](https://git.io/typing-svg)
+
+
+### Sobre mim: 
+👩‍💻 Estudante de SI na UFRPE desde 2024.1
 <br>
-🎖️ Comunicativa, interessada, proativa e aberta a novos aprendizados
+💙 Faço parte da Empresa Júnior Seed a Bit Tecnologia
 <br>
-### Aprendendo 👇
+💻 Estagiária de suporte na Active Fitness Academia
+<br>
+🗣️ Possuo inglês intermediário
+<br>
+📱 Blogueira tech nas horas vagas -> @dev.mslf
+### Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
