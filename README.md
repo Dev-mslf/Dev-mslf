@@ -11,20 +11,19 @@
 <br>
 💙 Faço parte da Empresa Júnior Seed a Bit Tecnologia
 <br>
-💻 Estagiária em Banco de Dados na Active Fitness Academia
-<br>
 🗣️ Possuo inglês intermediário
 <br>
 📱 Blogueira tech nas horas vagas -> @dev.mslf
 ##
   <div style="display: inline_block"><br>
   <div align="center">
-  <img align="center" alt="Gabi-python" height="32" width="32" src="https://github.com/user-attachments/assets/f2751354-79b7-4555-9be7-552a8780d856">
-  <img align="center" alt="Gabi-MySQL" height="40" width="40" src="https://github.com/user-attachments/assets/54c920e8-7f42-49f8-a932-5e9ba60be48e">
+  <img align="center" alt="Gabi-HTML" height="35" width="35" src="https://github.com/user-attachments/assets/56015961-1d55-4a99-8bcf-b1990978c66c">
+  <img align="center" alt="Gabi-CSS" height="30" width="30" src="https://github.com/user-attachments/assets/05832451-058e-4e29-bda4-988683547056">
   <img align="center" alt="Gabi-JS" height="30" width="30" src="https://github.com/user-attachments/assets/70107188-8699-4dd2-b307-b0dc80c87b70">
-  <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabi-react" height="37" width="37" src="https://github.com/user-attachments/assets/8757d0b6-9756-404a-8098-57e28ec9f2d9">
   <img align="center" alt="Gabi-git" height="37" width="37" src="https://github.com/user-attachments/assets/66dc5c40-d158-4e83-b4c6-34668748744b">
   <img align="center" alt="Gabi-figma" height="27" width="30" src="https://github.com/user-attachments/assets/b9b4fa25-600c-4e01-8ba4-ad08add72441">
+  <img align="center" alt="Gabi-python" height="32" width="32" src="https://github.com/user-attachments/assets/f2751354-79b7-4555-9be7-552a8780d856">
   
 </div>
  <br>
@@ -49,10 +48,9 @@
 </div>
 <br>
 <div align="left">
-🔶 Atualmente me aprofundando nos estudos voltados para dados, buscando consolidar conhecimento em: <br>
-  🔹Python <br>
-  🔹SQL <br>
-  🔹Banco de Dados <br>
-  🔹MongoDB <br>
-  🔹AWS
+🔶 Atualmente me desenvolvendo no frontend, buscando consolidar conhecimento em: <br>
+  🔹HTML <br>
+  🔹CSS <br>
+  🔹JS <br>
+  🔹REACT <br>
 </div>
